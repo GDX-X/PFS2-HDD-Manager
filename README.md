@@ -44,7 +44,8 @@ The artwork manager lets you browse, download, and replace game covers, disc art
 - Copy games between two hard drives.
 - PS1 game support through **POPS and EMBER**.
 - Export PS2 games as **ISO** files and PS1 games as **VCD** files.
-- Browse a game database and compare MD5 hashes against Redump references.
+- Explore a rich game database with controller compatibility and support for **LAN**, **PS2 Online**, and **i.LINK** multiplayer.
+- Compare MD5 hashes against Redump references.
 
 ### Drives and partitions
 
