@@ -9,27 +9,28 @@ Install your games, manage partitions, and customize your library through an int
 
 [Downloads](https://github.com/GDX-X/PFS2-HDD-Manager/releases) · [Report an issue](https://github.com/GDX-X/PFS2-HDD-Manager/issues) · [Support me on Ko-fi](https://ko-fi.com/J3J6PIQ9O)
 
+> [!WARNING]
 > **Compatibility:** Only PFS-formatted hard drives are currently supported. Support for **FAT32** and **exFAT** will be added in a future update.
 
 ## Overview
 
+### Your PS2 library, all in one place
+
+Install and organize your PS2 and PS1 games, explore partitions, and manage your hard drive resources from a single interface.
+
+### Make your collection your own
+
+The artwork manager lets you browse, download, and replace game covers, disc artwork, logos, and screenshots. The CFG and CHT tabs also give you access to game configurations and cheat codes.
+
 <table>
   <tr>
-    <td width="45%" valign="top">
-      <h3>Your PS2 library, all in one place</h3>
-      <p>Install and organize your PS2 and PS1 games, explore partitions, and manage your hard drive resources from a single interface.</p>
-      <h3>Make your collection your own</h3>
-      <p>The artwork manager lets you browse, download, and replace game covers, disc artwork, logos, and screenshots.</p>
-      <p>The CFG and CHT tabs also give you access to game configurations and cheat codes.</p>
-    </td>
-    <td width="55%" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <a href="libs/resources/doc/Screenshot_1.png"><img src="libs/resources/doc/Screenshot_1.png" alt="PFS2 HDD Manager — screenshot 1" width="500"></a>
       <br><sub>Screenshot 1 — click to enlarge.</sub>
-      <details>
-        <summary>View screenshot 2</summary>
-        <p><a href="libs/resources/doc/Screenshot_2.png"><img src="libs/resources/doc/Screenshot_2.png" alt="PFS2 HDD Manager — screenshot 2" width="500"></a></p>
-        <sub>Screenshot 2 — click to enlarge.</sub>
-      </details>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="libs/resources/doc/Screenshot_2.png"><img src="libs/resources/doc/Screenshot_2.png" alt="PFS2 HDD Manager — screenshot 2" width="500"></a>
+      <br><sub>Screenshot 2 — click to enlarge.</sub>
     </td>
   </tr>
 </table>
