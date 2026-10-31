@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="libs\resources\ui\startup-splash-ps2.png" alt="PFS2 HDD Manager - by GDX" width="900">
+  <img src="libs/resources/ui/startup-splash-ps2.png" alt="PFS2 HDD Manager - by GDX" width="900">
 </p>
 
 # PFS2 HDD Manager
@@ -23,8 +23,13 @@ Install your games, manage partitions, and customize your library through an int
       <p>The CFG and CHT tabs also give you access to game configurations and cheat codes.</p>
     </td>
     <td width="55%" align="center" valign="top">
-      <a href="libs\resources\doc\Screenshot_1.png"><img src="libs\resources\doc\Screenshot_2.png" alt="PFS2 HDD Manager artwork manager interface" width="500"></a>
-      <br><sub>Artwork manager preview — click to enlarge.</sub>
+      <a href="libs/resources/doc/Screenshot_1.png"><img src="libs/resources/doc/Screenshot_1.png" alt="PFS2 HDD Manager — screenshot 1" width="500"></a>
+      <br><sub>Screenshot 1 — click to enlarge.</sub>
+      <details>
+        <summary>View screenshot 2</summary>
+        <p><a href="libs/resources/doc/Screenshot_2.png"><img src="libs/resources/doc/Screenshot_2.png" alt="PFS2 HDD Manager — screenshot 2" width="500"></a></p>
+        <sub>Screenshot 2 — click to enlarge.</sub>
+      </details>
     </td>
   </tr>
 </table>
