@@ -4,8 +4,8 @@
 
 # PFS2 HDD Manager
 
-A PlayStation 2 hard drive manager for Windows, developed by **GDX**.
-Install your games, manage partitions, and customize your library through an interface available in English and French.
+A PlayStation 2 hard drive manager for Windows, designed to make game installation as simple as possible.
+Install your games, manage partitions, and customize your game library.
 
 [Downloads](https://github.com/GDX-X/PFS2-HDD-Manager/releases) · [Report an issue](https://github.com/GDX-X/PFS2-HDD-Manager/issues) · [Support me on Ko-fi](https://ko-fi.com/J3J6PIQ9O)
 
