@@ -64,6 +64,17 @@ The artwork manager lets you browse, download, and replace game covers, disc art
 - Track transfers, view operation reports, and access built-in logs.
 - Check for new versions directly from the application.
 
+## Supported game formats
+
+| Platform | Supported input formats |
+| --- | --- |
+| **PS2** | **ISO** (`.iso`) and **BIN/CUE** (select the `.cue` file). |
+| **PS1 — POPS** | **BIN/CUE** (automatically converted to VCD during installation) and **VCD** (`.vcd`). |
+| **PS1 — EMBER** | **BIN/CUE** (select the `.cue` file). VCD files are not supported by EMBER. |
+
+**ZIP, 7Z, and RAR** archives containing supported game images can also be added directly and are extracted automatically.
+For BIN/CUE images, keep the `.cue` file and all referenced `.bin` tracks together, including inside archives.
+
 ## Getting started
 
 1. Download the application from the [Releases](https://github.com/GDX-X/PFS2-HDD-Manager/releases) page.
