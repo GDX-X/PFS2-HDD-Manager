@@ -97,5 +97,5 @@ Credits and third-party component information are available in the application's
 
 PFS2 HDD Manager also relies on these projects:
 
-- [OPL Games Infos Database Project](https://github.com/GDX-X/OPL-Games-Infos-Database-Project/releases)
+- [OPL Games Infos Database Project](https://github.com/GDX-X/OPL-Games-Infos-Database-Project)
 - [HDD-OSD Icon Database](https://github.com/GDX-X/HDD-OSD-Icon-Database)
