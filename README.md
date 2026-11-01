@@ -92,3 +92,10 @@ Thank you for your support, feedback, and ideas!
 
 Developed by **GDX**, using **[hdl_dump](https://github.com/ps2homebrew/hdl-dump)** and **[pfsshell](https://github.com/ps2homebrew/pfsshell)** for PS2 drive operations.
 Credits and third-party component information are available in the application's **About** window.
+
+### Essential projects
+
+PFS2 HDD Manager also relies on these projects:
+
+- [OPL Games Infos Database Project](https://github.com/GDX-X/OPL-Games-Infos-Database-Project/releases)
+- [HDD-OSD Icon Database](https://github.com/GDX-X/HDD-OSD-Icon-Database)
